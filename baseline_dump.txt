@@ -1,0 +1,304 @@
+booster[0]:
+0:[ride_value_prev_1hours<147.762787] yes=1,no=2,missing=1
+	1:[ride_value_prev_1days<67.7262268] yes=3,no=4,missing=3
+		3:[ride_value_prev_1hours<22.6792488] yes=7,no=8,missing=7
+			7:[ride_value_prev_1days<15.7763271] yes=15,no=16,missing=15
+				15:leaf=2.13982034
+				16:leaf=6.34535599
+			8:[ride_value_prev_1hours<85.3394012] yes=17,no=18,missing=18
+				17:leaf=9.97598267
+				18:leaf=25.1543827
+		4:[ride_value_prev_1days<123.713531] yes=9,no=10,missing=10
+			9:[ride_value_prev_1weeks<94.7286072] yes=19,no=20,missing=19
+				19:leaf=24.9441566
+				20:leaf=37.0075111
+			10:[ride_value_prev_1weeks<159.746429] yes=21,no=22,missing=21
+				21:leaf=41.2281761
+				22:leaf=60.3070946
+	2:[ride_value_prev_1hours<333.496826] yes=5,no=6,missing=6
+		5:[ride_value_prev_1days<249.666306] yes=11,no=12,missing=11
+			11:[ride_value_prev_1hours<229.774506] yes=23,no=24,missing=24
+				23:leaf=51.664772
+				24:leaf=69.9638367
+			12:[ride_value_prev_1weeks<252.37851] yes=25,no=26,missing=26
+				25:leaf=70.9101257
+				26:leaf=94.0382462
+		6:[ride_value_prev_1weeks<393.127014] yes=13,no=14,missing=13
+			13:[ride_value_prev_1weeks<297.725098] yes=27,no=28,missing=28
+				27:leaf=84.5719986
+				28:leaf=117.343491
+			14:[ride_value_prev_1weeks<511.333069] yes=29,no=30,missing=30
+				29:leaf=144.314255
+				30:leaf=184.776978
+booster[1]:
+0:[ride_value_prev_1hours<175.474091] yes=1,no=2,missing=1
+	1:[ride_value_prev_1hours<75.7659912] yes=3,no=4,missing=3
+		3:[ride_value_prev_1days<25.3361607] yes=7,no=8,missing=7
+			7:[ride_value_prev_1hours<13.0136242] yes=15,no=16,missing=15
+				15:leaf=1.25120652
+				16:leaf=4.10639668
+			8:[ride_value_prev_1days<76.4391556] yes=17,no=18,missing=18
+				17:leaf=7.66600466
+				18:leaf=18.6492176
+		4:[ride_value_prev_1days<111.804756] yes=9,no=10,missing=10
+			9:[ride_value_prev_1weeks<99.4672394] yes=19,no=20,missing=19
+				19:leaf=14.3905239
+				20:leaf=28.4866695
+			10:[ride_value_prev_1weeks<155.090607] yes=21,no=22,missing=21
+				21:leaf=29.5645847
+				22:leaf=41.8732796
+	2:[ride_value_prev_1days<331.880676] yes=5,no=6,missing=5
+		5:[ride_value_prev_1hours<286.603333] yes=11,no=12,missing=12
+			11:[ride_value_prev_1weeks<190.638748] yes=23,no=24,missing=23
+				23:leaf=38.8564377
+				24:leaf=54.4001503
+			12:[ride_value_prev_1weeks<245.268204] yes=25,no=26,missing=26
+				25:leaf=49.5601349
+				26:leaf=68.3040009
+		6:[ride_value_prev_1weeks<444.326691] yes=13,no=14,missing=13
+			13:[ride_value_prev_1weeks<340.048523] yes=27,no=28,missing=28
+				27:leaf=69.7347717
+				28:leaf=88.9201736
+			14:[ride_value_prev_1weeks<560.96814] yes=29,no=30,missing=30
+				29:leaf=108.955223
+				30:leaf=151.974014
+booster[2]:
+0:[ride_value_prev_1hours<177.605392] yes=1,no=2,missing=1
+	1:[ride_value_prev_1days<84.99823] yes=3,no=4,missing=3
+		3:[ride_value_prev_1hours<28.9089432] yes=7,no=8,missing=7
+			7:[dist_to_center<3.00524378] yes=15,no=16,missing=15
+				15:leaf=49.9598999
+				16:leaf=1.57016218
+			8:[ride_value_prev_1hours<111.779617] yes=17,no=18,missing=18
+				17:leaf=5.91464424
+				18:leaf=16.8339558
+		4:[ride_value_prev_1days<157.733627] yes=9,no=10,missing=10
+			9:[ride_value_prev_1weeks<128.095642] yes=19,no=20,missing=19
+				19:leaf=15.3725176
+				20:leaf=23.2836208
+			10:[sin_seconds_zone<-0.915975571] yes=21,no=22,missing=21
+				21:leaf=14.7024288
+				22:leaf=27.7531528
+	2:[ride_value_prev_1hours<357.818359] yes=5,no=6,missing=6
+		5:[ride_value_prev_1weeks<281.144287] yes=11,no=12,missing=11
+			11:[ride_value_prev_1weeks<182.97789] yes=23,no=24,missing=24
+				23:leaf=22.6432037
+				24:leaf=36.390522
+			12:[h6_lat<59.4322853] yes=25,no=26,missing=25
+				25:leaf=49.570343
+				26:leaf=61.4422836
+		6:[ride_value_prev_1hours<501.850464] yes=13,no=14,missing=14
+			13:[ride_value_prev_1weeks<351.333862] yes=27,no=28,missing=28
+				27:leaf=48.7494774
+				28:leaf=65.4280472
+			14:[ride_value_prev_1weeks<464.689453] yes=29,no=30,missing=30
+				29:leaf=69.2369766
+				30:leaf=96.5111923
+booster[3]:
+0:[ride_value_prev_1days<182.548218] yes=1,no=2,missing=1
+	1:[ride_value_prev_1hours<72.7377014] yes=3,no=4,missing=3
+		3:[ride_value_prev_1weeks<30.4804993] yes=7,no=8,missing=7
+			7:[ride_value_prev_1hours<9.31349945] yes=15,no=16,missing=15
+				15:leaf=0.211521521
+				16:leaf=2.20510817
+			8:[ride_value_prev_1weeks<49.6340485] yes=17,no=18,missing=18
+				17:leaf=4.89200497
+				18:leaf=9.15044689
+		4:[ride_value_prev_1hours<278.19812] yes=9,no=10,missing=10
+			9:[cos_seconds_zone<0.915975571] yes=19,no=20,missing=19
+				19:leaf=14.7546721
+				20:leaf=4.46311665
+			10:[ride_value_prev_1days<361.963715] yes=21,no=22,missing=22
+				21:leaf=25.1586666
+				22:leaf=41.8193169
+	2:[ride_value_prev_1days<348.81189] yes=5,no=6,missing=6
+		5:[ride_value_prev_1weeks<269.430542] yes=11,no=12,missing=11
+			11:[weekdaygroups<6] yes=23,no=24,missing=23
+				23:leaf=25.5684547
+				24:leaf=16.8325214
+			12:[ride_value_prev_1weeks<333.431732] yes=25,no=26,missing=26
+				25:leaf=33.8066101
+				26:leaf=43.7656136
+		6:[ride_value_prev_1hours<428.847717] yes=13,no=14,missing=14
+			13:[ride_value_prev_1weeks<340.357544] yes=27,no=28,missing=27
+				27:leaf=34.5779305
+				28:leaf=46.285984
+			14:[ride_value_prev_1weeks<458.984161] yes=29,no=30,missing=30
+				29:leaf=45.6605988
+				30:leaf=62.2322311
+booster[4]:
+0:[ride_value_prev_1hours<192.864319] yes=1,no=2,missing=1
+	1:[dist_to_center<5.66327143] yes=3,no=4,missing=3
+		3:[ride_value_prev_1days<159.825317] yes=7,no=8,missing=8
+			7:[ride_value_prev_1weeks<104.877548] yes=15,no=16,missing=15
+				15:leaf=5.38266182
+				16:leaf=10.5655432
+			8:[sin_seconds_zone<0.915975571] yes=17,no=18,missing=17
+				17:leaf=11.6593466
+				18:leaf=18.9059219
+		4:[ride_value_prev_1days<19.884655] yes=9,no=10,missing=9
+			9:[dist_to_center<10.0681877] yes=19,no=20,missing=19
+				19:leaf=0.913350403
+				20:leaf=-0.170032591
+			10:[ride_value_prev_1weeks<39.8196259] yes=21,no=22,missing=21
+				21:leaf=2.17203164
+				22:leaf=4.74003172
+	2:[ride_value_prev_1hours<410.948669] yes=5,no=6,missing=6
+		5:[ride_value_prev_1days<289.995667] yes=11,no=12,missing=12
+			11:[ride_value_prev_1weeks<212.267395] yes=23,no=24,missing=23
+				23:leaf=13.1604214
+				24:leaf=21.1794357
+			12:[ride_value_prev_1weeks<331.590149] yes=25,no=26,missing=25
+				25:leaf=23.315752
+				26:leaf=31.6017342
+		6:[ride_value_prev_1weeks<582.486816] yes=13,no=14,missing=13
+			13:[sin_seconds_zone<-0.129409522] yes=27,no=28,missing=27
+				27:leaf=38.8397751
+				28:leaf=27.5526199
+			14:leaf=69.7528229
+booster[5]:
+0:[ride_value_prev_1hours<133.89502] yes=1,no=2,missing=1
+	1:[ride_value_prev_1days<42.4034348] yes=3,no=4,missing=3
+		3:[dist_to_center<3.00524378] yes=7,no=8,missing=7
+			7:leaf=40.6852798
+			8:[ride_value_prev_1weeks<18.7573318] yes=15,no=16,missing=15
+				15:leaf=0.316460192
+				16:leaf=1.85320747
+		4:[ride_value_prev_1weeks<168.051102] yes=9,no=10,missing=9
+			9:[ride_value_prev_1weeks<87.5513763] yes=17,no=18,missing=18
+				17:leaf=2.95871615
+				18:leaf=5.35460949
+			10:[ride_value_prev_1days<258.584351] yes=19,no=20,missing=20
+				19:leaf=14.9178762
+				20:leaf=5.4743824
+	2:[ride_value_prev_1days<340.048523] yes=5,no=6,missing=5
+		5:[ride_value_prev_1weeks<157.924973] yes=11,no=12,missing=12
+			11:[ride_value_prev_1weeks<131.871445] yes=21,no=22,missing=22
+				21:leaf=1.80914032
+				22:leaf=7.5158
+			12:[ride_value_prev_1weeks<227.152756] yes=23,no=24,missing=23
+				23:leaf=11.1845016
+				24:leaf=17.0202198
+		6:[ride_value_prev_1hours<595.998291] yes=13,no=14,missing=14
+			13:[ride_value_prev_1weeks<296.799988] yes=25,no=26,missing=26
+				25:leaf=10.7195148
+				26:leaf=23.0724087
+			14:[weekdaygroups<6] yes=27,no=28,missing=27
+				27:leaf=52.0041885
+				28:leaf=24.7547989
+booster[6]:
+0:[ride_value_prev_1days<198.445541] yes=1,no=2,missing=1
+	1:[ride_value_prev_1hours<45.1835327] yes=3,no=4,missing=3
+		3:[dist_to_center<3.00524378] yes=7,no=8,missing=7
+			7:leaf=34.582489
+			8:[ride_value_prev_1days<11.6214733] yes=15,no=16,missing=15
+				15:leaf=-0.0606735274
+				16:leaf=0.976332247
+		4:[ride_value_prev_1hours<278.853943] yes=9,no=10,missing=10
+			9:[weekdaygroups<6] yes=17,no=18,missing=17
+				17:leaf=4.53860903
+				18:leaf=-0.439539403
+			10:[sin_seconds_zone<0.379409522] yes=19,no=20,missing=19
+				19:leaf=17.7763615
+				20:leaf=6.89174795
+	2:[ride_value_prev_1days<403.168213] yes=5,no=6,missing=6
+		5:[ride_value_prev_1weeks<212.433411] yes=11,no=12,missing=12
+			11:[ride_value_prev_1days<360.666382] yes=21,no=22,missing=22
+				21:leaf=6.33056784
+				22:leaf=-6.08797216
+			12:[weekdaygroups<6] yes=23,no=24,missing=23
+				23:leaf=11.9951792
+				24:leaf=6.59776735
+		6:[ride_value_prev_1weeks<560.96814] yes=13,no=14,missing=13
+			13:[ride_value_prev_1weeks<411.0802] yes=25,no=26,missing=26
+				25:leaf=13.3217545
+				26:leaf=20.9188614
+			14:[weekdaygroups<6] yes=27,no=28,missing=27
+				27:leaf=45.319191
+				28:leaf=20.716877
+booster[7]:
+0:[ride_value_prev_1hours<122.830597] yes=1,no=2,missing=1
+	1:[ride_value_prev_1days<36.9018288] yes=3,no=4,missing=3
+		3:[dist_to_center<3.00524378] yes=7,no=8,missing=7
+			7:leaf=29.3951168
+			8:[ride_value_prev_1hours<3.92787504] yes=15,no=16,missing=15
+				15:leaf=-0.359483898
+				16:leaf=0.440302968
+		4:[sin_seconds_zone<0.786566079] yes=9,no=10,missing=9
+			9:[ride_value_prev_1days<197.324371] yes=17,no=18,missing=18
+				17:leaf=1.16729796
+				18:leaf=10.1913834
+			10:[ride_value_prev_1days<65.7100525] yes=19,no=20,missing=20
+				19:leaf=2.07737422
+				20:leaf=5.3498106
+	2:[ride_value_prev_1days<288.881104] yes=5,no=6,missing=6
+		5:[ride_value_prev_1weeks<177.300522] yes=11,no=12,missing=11
+			11:[cos_seconds_zone<-0.786566079] yes=21,no=22,missing=21
+				21:leaf=6.07464838
+				22:leaf=2.36260962
+			12:[ride_value_prev_1weeks<374.712006] yes=23,no=24,missing=24
+				23:leaf=6.81280994
+				24:leaf=20.3256969
+		6:[ride_value_prev_1hours<528.236938] yes=13,no=14,missing=14
+			13:[sin_seconds_zone<-0.915975571] yes=25,no=26,missing=25
+				25:leaf=4.09790277
+				26:leaf=10.7603817
+			14:[ride_value_prev_1weeks<560.96814] yes=27,no=28,missing=28
+				27:leaf=13.5417337
+				28:leaf=30.9431267
+booster[8]:
+0:[ride_value_prev_1hours<122.830597] yes=1,no=2,missing=1
+	1:[dist_to_center<3.00524378] yes=3,no=4,missing=3
+		3:leaf=24.9858494
+		4:[ride_value_prev_1days<36.2050476] yes=7,no=8,missing=7
+			7:[ride_value_prev_1weeks<25.6391258] yes=13,no=14,missing=13
+				13:leaf=0.0364587046
+				14:leaf=0.982657015
+			8:[ride_value_prev_1weeks<145.70488] yes=15,no=16,missing=15
+				15:leaf=1.12162542
+				16:leaf=5.86575031
+	2:[ride_value_prev_1hours<405.28772] yes=5,no=6,missing=6
+		5:[sin_seconds_zone<0.915975571] yes=9,no=10,missing=9
+			9:[cos_seconds_zone<-0.786566079] yes=17,no=18,missing=17
+				17:leaf=5.56306887
+				18:leaf=2.09351277
+			10:[h6_lon<24.7496548] yes=19,no=20,missing=19
+				19:leaf=11.3676844
+				20:leaf=4.66903162
+		6:[sin_seconds_zone<-0.379409522] yes=11,no=12,missing=11
+			11:[cos_seconds_zone<0.603553414] yes=21,no=22,missing=21
+				21:leaf=10.1717052
+				22:leaf=20.7139282
+			12:[ride_value_prev_1hours<720.599854] yes=23,no=24,missing=24
+				23:leaf=5.23745012
+				24:leaf=17.6852932
+booster[9]:
+0:[ride_value_prev_1hours<240.426117] yes=1,no=2,missing=1
+	1:[ride_value_prev_1weeks<136.035583] yes=3,no=4,missing=3
+		3:[cos_seconds_zone<0.915975571] yes=7,no=8,missing=7
+			7:[ride_value_prev_1hours<43.9072495] yes=15,no=16,missing=15
+				15:leaf=0.200470999
+				16:leaf=1.53065503
+			8:[ride_value_prev_1hours<147.654114] yes=17,no=18,missing=17
+				17:leaf=-0.51625967
+				18:leaf=-6.05945826
+		4:[ride_value_prev_1hours<232.48349] yes=9,no=10,missing=10
+			9:[ride_value_prev_1weeks<229.73587] yes=19,no=20,missing=20
+				19:leaf=2.94154572
+				20:leaf=6.95639467
+			10:[cos_seconds_zone<-0.786566079] yes=21,no=22,missing=21
+				21:leaf=1.87142408
+				22:leaf=-2.01484871
+	2:[ride_value_prev_1days<520.283875] yes=5,no=6,missing=6
+		5:[weekdaygroups<6] yes=11,no=12,missing=11
+			11:[ride_value_prev_1weeks<384.610107] yes=23,no=24,missing=24
+				23:leaf=3.78629947
+				24:leaf=6.69777822
+			12:[sin_seconds_zone<-0.915975571] yes=25,no=26,missing=25
+				25:leaf=-12.4986811
+				26:leaf=0.385773748
+		6:[ride_value_prev_1hours<730.871948] yes=13,no=14,missing=14
+			13:[sin_seconds_zone<-0.129409522] yes=27,no=28,missing=27
+				27:leaf=10.5221605
+				28:leaf=2.98752809
+			14:leaf=27.6413975
